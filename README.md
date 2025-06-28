@@ -49,8 +49,8 @@ Passionate about building scalable systems, cloud-native apps, and full-stack so
 ## 📫 Contact
 
 - 📍 Auckland, New Zealand  
-- ✉️ [zawtunnaing83@gmail.com](mailto:zawtunnaing83@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/zaw-tun-naing)
+- ✉️ [maxzaw83@gmail.com](mailto:zawtunnaing83@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/max-zaw)
 
 ---
 
