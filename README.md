@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Zaw Tun Naing
+# 👋 Hi, I'm Max, 
 
-Senior Software Engineer with 17+ years of experience across Singapore and New Zealand 🌏.  
+Senior Software Engineer with 15+ years of experience across Singapore and New Zealand 🌏.  
 Passionate about building scalable systems, cloud-native apps, and full-stack solutions that align with real-world business needs.
 
 💼 Previously led development at **ComfortDelGro**, **Singapore Post**, **PIL**, and **Hwa Chong Institution**
